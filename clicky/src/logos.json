@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "HTML",
+        "image": "/images/html.png"
+    },
+    {
+        "id": 2,
+        "name": "CSS",
+        "image": "./images/css.png"
+    },
+    {
+        "id": 3,
+        "name": "Firefox",
+        "image": "./images/Firefox_Logo,_2017.png"
+    },
+    {
+        "id": 4,
+        "name": "JavaScript",
+        "image": "./images/javascript-logo-8892AEFCAC-seeklogo.com.png"
+    },
+    {
+        "id": 5,
+        "name": "GitHub",
+        "image": "./images/git.png"
+    },
+    {
+        "id": 6,
+        "name": "React",
+        "image": "./images/react.png"
+    },
+    {
+        "id": 7,
+        "name": "VUE.js",
+        "image": "./images/vue.js.png"
+    },
+    {
+        "id": 8,
+        "name": "Node.js",
+        "image": "./images/node.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Stackoverflow",
+        "image": "./images/download.png"
+    }       
+]
