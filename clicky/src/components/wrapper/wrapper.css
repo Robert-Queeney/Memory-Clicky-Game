@@ -1,10 +1,12 @@
 .container {
-    display: grid;
+    display: flex;
+    /* display: grid; 
     grid-gap: 20px; 
-    grid-template-columns: (1fr, 1fr, 1fr); 
-    /* flex-flow: row wrap; */
-    /* align-content: flex-start; */
-    /* justify-content: space-around; */
-    background-color: rgba(238, 237, 225, 0.438);
-    border: solid 1px rgb(58, 41, 41);
+    grid-template-columns: (3, 1fr);  */
+    flex-flow: row wrap; 
+     align-content: flex-start; 
+    justify-content: space-around;
+    border: solid 5px black;
+    background-color: lightgoldenrodyellow
+  
 }
